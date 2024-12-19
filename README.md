@@ -1,4 +1,4 @@
-# myrepo-task2
+# terraform best practices
 1.	Use remote state
 2.	Use existing shared and community modules
 3.	Import existing infrastructure
@@ -15,7 +15,5 @@
 14.	Use functions
 15.	Take advantage of Dynamic Blocks
 16.	Use Terraform Workspaces
-17.	Use the Lifecycle Block
-18.	Use variables validations
-19.	Leverage Helper tools to make your life easier
-20.	Take advantage of the IDE exte
+17.	Use variables validations
+
